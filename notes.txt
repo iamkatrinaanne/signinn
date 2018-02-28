@@ -1,0 +1,7 @@
+1006926217417-o1nfljel6inc66tof5atdc1uf7degrsc.apps.googleusercontent.com
+
+
+   <script type="text/javascript">
+      function logOut() {
+      window.location = "https://mail.google.com/mail/u/0/?logout&hl=en"; }
+      </script>

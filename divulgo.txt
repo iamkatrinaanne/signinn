@@ -1,0 +1,7 @@
+OAuth client
+
+client ID:
+633624090694-b0a0a0mnu17qda3kl3jd1skjuraoba9j.apps.googleusercontent.com
+
+client secret:
+zPugkQAAvfdnYjzgQeqID2lf
